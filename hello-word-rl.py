@@ -2,7 +2,6 @@ import pyray
 
 # Initialization
 # --------------------------------------------------------------------------------------
-COLOR = pyray.Color(255, 65, 127, 255)
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 450
 pyray.init_window(SCREEN_WIDTH, SCREEN_HEIGHT, "raylib example - basic window")
